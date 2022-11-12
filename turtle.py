@@ -1,3 +1,4 @@
+8.
 import turtle
 t=turtle.Turtle()
 t.shape('turtle')
@@ -25,4 +26,4 @@ rr=(((x1-x2)**2)+((y1-y2)**2))**0.5
 if rr <= (r1+r2):
     t.write("두번째 원이 첫번째 원의 내부에 있습니다.")
 else:
-    t.write("두번째 원이 첫번쨰 원의 외부에 있습니다.")
+    t.write("두번째 원이 첫번째 원의 외부에 있습니다.")
